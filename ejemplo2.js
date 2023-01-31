@@ -1,1 +1,1 @@
-console.log("Este es otro archivo editado");
+console.log("Este es otro archivo editado2");
